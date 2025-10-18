@@ -9,7 +9,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Мій фінальний проєкт демонструє використання алгоритмів штучного інтелекту для аналізу даних та прогнозування результатів. Система навчається на наданих прикладах і здатна робити точні передбачення, покращуючи ефективність прийняття рішень.
 
 
 ## Background
